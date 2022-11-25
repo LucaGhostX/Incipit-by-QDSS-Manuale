@@ -6,4 +6,4 @@ Scan del Manuale di Incipit
 ![Incipit Manuale Pag 3](https://user-images.githubusercontent.com/64761832/204029596-ff29ebd4-3d33-49b5-9e8b-da628039cbca.jpg)
 ![Incipit Manuale Pag 4](https://user-images.githubusercontent.com/64761832/204029605-806dc182-0d3a-40c9-8fd1-aee262436bf5.jpg)
 
-Il Copyright non è di mia appartenezza, tutti i crediti vanno a QDSS e i loro collaboratori.
+_Il Copyright non è di mia appartenezza, tutti i crediti vanno a QDSS e i loro collaboratori._
